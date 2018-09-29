@@ -1,0 +1,12 @@
+class SimpleArithmetic
+{
+  public static void main(String [] args)
+  {
+   int a = 10;
+   int b = 5;
+   int a + b = 15;
+   int a - b = 5;
+   int a*b = 50;
+   int a/b = 2;
+  }
+}
